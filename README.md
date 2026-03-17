@@ -1,10 +1,11 @@
 💰 **SpendWise AI – Smart Financial Dashboard**
+
 SpendWise AI is a modern, high-performance financial tracking application built to help users manage their expenses with the power of AI-driven insights. This project demonstrates a complete User Authentication lifecycle, Real-time Data Visualization, and a Heuristic AI Engine for financial analysis.
 
-🚀** Live Demo**
+🚀Live Demo
 Check out the live app: 
 
-✨** Key Features**
+✨ Key Features
 AI-Powered Insights: A custom-built logic engine that analyzes spending patterns and provides dynamic behavioral recommendations.
 
 Secure Authentication: Full Sign-up and Login flow with password validation and session persistence via LocalStorage.
