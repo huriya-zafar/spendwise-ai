@@ -3,7 +3,7 @@
 SpendWise AI is a modern, high-performance financial tracking application built to help users manage their expenses with the power of AI-driven insights. This project demonstrates a complete User Authentication lifecycle, Real-time Data Visualization, and a Heuristic AI Engine for financial analysis.
 
 🚀Live Demo
-Check out the live app: 
+Check out the live app: spendwise-ai-project.vercel.app
 
 ✨ Key Features
 AI-Powered Insights: A custom-built logic engine that analyzes spending patterns and provides dynamic behavioral recommendations.
